@@ -1,0 +1,100 @@
+  .custom-container {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 50px auto;
+    top:50%;
+  }
+  
+  .custom-tabs {
+    display: flex;
+    border: 1px solid red;
+  }
+  
+  .custom-tablink {
+    flex: 1;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-tablink:hover {
+    background-color: #ddd;
+  }
+  
+  .custom-tabcontent {
+    display: none;
+    padding: 20px;
+  }
+  
+  .custom-tabcontent h2 {
+    margin-top: 0;
+  }
+  
+  .custom-input,
+  .custom-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .custom-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width:15px
+  }
+  
+  .custom-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Modal CSS */
+  .custom-modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.5);
+  }
+  
+  .custom-modal-content {
+    background-color: #fefefe;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    border-radius: 10px;
+    max-width: 400px;
+  }
+  
+  .custom-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    position: absolute;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+  }
+  
+  .custom-close:hover,
+  .custom-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
