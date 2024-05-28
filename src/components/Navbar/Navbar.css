@@ -112,7 +112,6 @@
     .mobile-links {
       display: flex;
       flex-direction: column;
-      /* background-color: #ffffff; */
       padding: 1rem;
       background-color: rgba(196, 196, 196, 0.9); 
       z-index: 100; /* Ensure the mobile links are above other content */
