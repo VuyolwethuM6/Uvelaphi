@@ -114,7 +114,7 @@
       flex-direction: column;
       padding: 1rem;
       background-color: rgba(196, 196, 196, 0.9); 
-      z-index: 100; /* Ensure the mobile links are above other content */
+      z-index: 100; 
       position: fixed;
 
       top: 0;
