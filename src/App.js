@@ -53,7 +53,7 @@ function App() {
         <Router>
             <Switch>
                 <Route path="/" exact>
-                    {/* Render your Templates component */}
+  
                     <Navbar />
                     <Header /> 
                     <Templates imageUrls={imageUrls}/>
