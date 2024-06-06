@@ -45,7 +45,7 @@ function App() {
             .catch((error) => {
                 console.error('Error listing images:', error);
             });
-    }, []); // Empty dependency array to run only once when the component mounts
+    }, []); 
 
 
 
