@@ -69,8 +69,7 @@ function App() {
         //     {/* <Navbar />
         //     <Header /> */}
         //     {/* <Templates imageUrls={imageUrls} />  */}
-        //     {/* <Editor/>
-        //     <Footer /> */}              npm install react-router-dom@5.2.0
+
 
     );
 }
