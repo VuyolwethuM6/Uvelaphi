@@ -68,7 +68,7 @@ function App() {
         // <div className="App">
         //     {/* <Navbar />
         //     <Header /> */}
-        //     {/* <Templates imageUrls={imageUrls} />  */}
+
 
 
     );
