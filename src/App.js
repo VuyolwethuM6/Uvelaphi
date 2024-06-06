@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 
-// Initialize Firebase
+
 const firebaseConfig = {
   apiKey: "AIzaSyAMDMueFyKy8CZEnUT-UgFpWJ_wJYVRySo",
   authDomain: "uvelaphi-designs.firebaseapp.com",
