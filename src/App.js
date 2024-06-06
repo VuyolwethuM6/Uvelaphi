@@ -71,8 +71,7 @@ function App() {
         //     {/* <Templates imageUrls={imageUrls} />  */}
         //     {/* <Editor/>
         //     <Footer /> */}              npm install react-router-dom@5.2.0
-        //     {/* <SkeletonCard/> */}
-        // </div>
+
     );
 }
 
