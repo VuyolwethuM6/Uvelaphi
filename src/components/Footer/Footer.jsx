@@ -7,9 +7,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-column">
           <h3>Uvelaphi-Designs</h3>
-          {/* <p> Uvelaphi is a gateway to the rich tapestry of South African cultures, a platform that allows you to create a  Showcasing the diverse cultures and tribes of South Africa, 
-            along with their clan names and origins Here, we celebrate the diversity and heritage of the Rainbow Nation, where each culture and tribe 
-            contributes to the vibrant mosaic that defines our identity. </p> */}
+
             <p> Uvelaphi-Designs is a platform that allows you to create posters and invitation cards based on your culture or tribe while also showcasing the diverse cultures and tribes of South Africa, its simply a gateway to the rich tapestry of South African cultures. </p>
         </div>
         <div className="footer-column">
