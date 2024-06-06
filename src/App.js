@@ -60,7 +60,6 @@ function App() {
                     <Footer />
                 </Route>
                 <Route path="/editor">
-                    {/* Render your EditorPage component */}
                     <Editor />
                 </Route>
             </Switch>
