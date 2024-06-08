@@ -17,10 +17,6 @@ const Editor = () => {
   const [textColor, setTextColor] = useState('#000000');
   const [image, setImage] = useState(null);
 
-
-  // const location = useLocation();
-  // const [imageUrl, setImageUrl] = useState('');
-
   const handleTextChange = (event) => {
     setText(event.target.value);
   };
