@@ -24,8 +24,6 @@ const Editor = () => {
   // useEffect(() => {
   //     // Extract the imageUrl from the query parameter
   //     const searchParams = new URLSearchParams(location.search);
-  //     const imageUrlParam = searchParams.get('imageUrl');
-
 
 
   const handleTextChange = (event) => {
