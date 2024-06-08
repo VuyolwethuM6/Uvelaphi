@@ -25,9 +25,6 @@ const Editor = () => {
   //     // Extract the imageUrl from the query parameter
   //     const searchParams = new URLSearchParams(location.search);
   //     const imageUrlParam = searchParams.get('imageUrl');
-  //     setImageUrl(imageUrlParam);
-      
-  // }, [location.search]);
 
 
 
