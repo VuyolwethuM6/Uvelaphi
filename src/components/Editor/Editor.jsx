@@ -21,9 +21,6 @@ const Editor = () => {
   // const location = useLocation();
   // const [imageUrl, setImageUrl] = useState('');
 
-  // useEffect(() => {
-
-
   const handleTextChange = (event) => {
     setText(event.target.value);
   };
